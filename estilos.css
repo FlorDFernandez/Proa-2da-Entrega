@@ -116,12 +116,13 @@ img {
     }
 }
 
-/*Logo Whats App*/
+/*Logo Whats App / se me desconfiguro y no logro arrgelarlo*/ 
 .wppLogo {
-    width: 100px;
-    position: fixed;
-    bottom: 40px;
-    right: 20px;
+    float: right;
+    margin-right: 30rem;
+    bottom: 10rem;
+    width: 0.5rem
+    height: 0.2rem;
 }
 
 .teEsperamos {
